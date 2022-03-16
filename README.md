@@ -1,7 +1,7 @@
 
 # Simple Bloom Filter
 
-This project employs a very simple bloom filter. it utilizes a has function 
+This project employs a very simple bloom filter. It utilizes a simple hash function as well. Would be better to replace it with a more efficient hashing algorithm such as murmurhash.
 
 
 ## Run Locally
