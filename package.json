@@ -1,0 +1,19 @@
+{
+  "name": "blooms",
+  "version": "1.0.0",
+  "description": "Very simple bloom filter",
+  "main": "bloomFilter.js",
+  "scripts": {
+    "test": "mocha spec/**/*-spec.js"
+  },
+  "author": "dortizdev",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "md5": "^2.3.0",
+    "murmurhash": "^2.0.0"
+  }
+}
